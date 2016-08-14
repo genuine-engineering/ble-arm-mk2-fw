@@ -1,0 +1,7 @@
+.output
+map.txt
+include/user_config.local.h
+bin
+yotta_modules
+yotta_targets
+build

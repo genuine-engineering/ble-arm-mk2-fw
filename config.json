@@ -1,0 +1,10 @@
+{
+	"chip": {
+	  "nrf51822": {
+	    "32k": true
+	  }
+	},
+	"nordic": {
+    "softdevice": "S110"
+  }
+}
